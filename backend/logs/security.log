@@ -1,0 +1,14 @@
+WARNING 2025-12-03 17:12:24,714 middleware 11664 7768 Failed request: PATCH /api/profile/update - Status: 405 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 17:12:51,741 middleware 11664 7768 Failed request: PUT /api/profile/update - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 19:53:05,985 middleware 18564 20256 Failed request: PUT /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca - Status: 405 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 19:54:39,163 middleware 18564 11248 Failed request: PUT /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca/update - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:07:49,807 middleware 18564 13764 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:11:03,712 middleware 18564 15124 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:16:37,352 middleware 18564 11296 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:18:32,778 middleware 18564 14480 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:18:49,401 middleware 18564 14480 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:19:51,017 middleware 18564 9648 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:20:44,787 middleware 18564 9648 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:20:53,219 middleware 18564 9648 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:22:06,760 middleware 18564 8488 Failed request: POST /api/transactions/initiate - Status: 400 - User: ranim@test.com - IP: 127.0.0.1
+WARNING 2025-12-03 20:22:13,414 middleware 18564 8488 Failed request: POST /api/transactions/initiate - Status: 500 - User: ranim@test.com - IP: 127.0.0.1

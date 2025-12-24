@@ -1,0 +1,1102 @@
+INFO 2025-12-02 11:36:35,399 autoreload 10308 24580 Watching for file changes with StatReloader
+INFO 2025-12-02 23:59:20,404 autoreload 22580 10244 Watching for file changes with StatReloader
+INFO 2025-12-02 23:59:38,775 basehttp 22580 9076 "GET / HTTP/1.1" 301 0
+INFO 2025-12-02 23:59:38,783 basehttp 22580 22452 code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+ERROR 2025-12-02 23:59:38,783 basehttp 22580 22452 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:38,787 basehttp 22580 21004 code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ªª\x00\x00\x00+\x00\x07\x06')
+ERROR 2025-12-02 23:59:38,790 basehttp 22580 21004 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:40,863 basehttp 22580 21028 code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03')
+INFO 2025-12-02 23:59:40,865 basehttp 22580 20144 code 400, message Bad request version ('c¥ï')
+ERROR 2025-12-02 23:59:40,865 basehttp 22580 21028 You're accessing the development server over HTTPS, but it only supports HTTP.
+ERROR 2025-12-02 23:59:40,866 basehttp 22580 20144 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:40,871 basehttp 22580 21912 code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SJJ\x00\x00\x00\x17\x00\x00\x00')
+ERROR 2025-12-02 23:59:40,872 basehttp 22580 21912 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:40,873 basehttp 22580 23388 code 400, message Bad request version ('\x9e{Û¼\x13')
+ERROR 2025-12-02 23:59:40,876 basehttp 22580 23388 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:42,371 basehttp 22580 18372 code 400, message Bad request version ('F¬&\x8d\x17K\x7fàC\x96\x87\x07d\x00ð}Æ+\x81Ú\x8eø+¥Þ\x86}ß')
+ERROR 2025-12-02 23:59:42,373 basehttp 22580 18372 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:42,373 basehttp 22580 20892 code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00DÍ\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x00')
+ERROR 2025-12-02 23:59:42,374 basehttp 22580 20892 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:42,376 basehttp 22580 24532 code 400, message Bad request version ('ü!-}')
+ERROR 2025-12-02 23:59:42,377 basehttp 22580 24532 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-02 23:59:42,378 basehttp 22580 22812 code 400, message Bad request version ('\x02kktQ\x8bOFô¹\\ø\x06c©cMt+ã1')
+ERROR 2025-12-02 23:59:42,381 basehttp 22580 22812 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-03 00:02:17,253 basehttp 22580 18808 "POST /api/auth/register HTTP/1.1" 301 0
+INFO 2025-12-03 00:02:17,267 basehttp 22580 8016 code 400, message Bad request version ('À\x13À')
+ERROR 2025-12-03 00:02:17,267 basehttp 22580 8016 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-03 00:05:05,189 basehttp 22580 24404 "POST /api/auth/login HTTP/1.1" 301 0
+INFO 2025-12-03 00:05:05,195 basehttp 22580 11652 code 400, message Bad request version ('À\x13À')
+ERROR 2025-12-03 00:05:05,197 basehttp 22580 11652 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-03 00:05:13,973 basehttp 22580 10664 "POST /api/auth/login HTTP/1.1" 301 0
+INFO 2025-12-03 00:05:13,978 basehttp 22580 20872 code 400, message Bad request version ('À\x13À')
+ERROR 2025-12-03 00:05:13,979 basehttp 22580 20872 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-03 00:10:57,368 autoreload 22580 10244 C:\Users\ranim\Desktop\banking-app\backend\banking_project\settings.py changed, reloading.
+INFO 2025-12-03 00:10:58,836 autoreload 24268 16004 Watching for file changes with StatReloader
+INFO 2025-12-03 00:11:12,752 autoreload 2176 2412 Watching for file changes with StatReloader
+ERROR 2025-12-03 00:11:24,296 log 2176 13732 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\accounts\middleware.py", line 88, in process_request
+    request_count = cache.get(cache_key, 0)
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+ERROR 2025-12-03 00:11:24,322 basehttp 2176 13732 "POST /api/auth/login HTTP/1.1" 500 122714
+ERROR 2025-12-03 00:12:41,607 log 2176 4248 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\accounts\middleware.py", line 88, in process_request
+    request_count = cache.get(cache_key, 0)
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\ranim\Desktop\banking-app\backend\venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+ERROR 2025-12-03 00:12:41,613 basehttp 2176 4248 "POST /api/auth/register HTTP/1.1" 500 122778
+INFO 2025-12-03 01:13:35,333 autoreload 2176 2412 C:\Users\ranim\Desktop\banking-app\backend\banking_project\settings.py changed, reloading.
+INFO 2025-12-03 01:13:37,237 autoreload 21880 21424 Watching for file changes with StatReloader
+INFO 2025-12-03 01:28:08,729 autoreload 21880 21424 C:\Users\ranim\Desktop\banking-app\backend\banking_project\wsgi.py changed, reloading.
+INFO 2025-12-03 01:28:09,969 autoreload 5608 24220 Watching for file changes with StatReloader
+INFO 2025-12-03 01:34:10,053 autoreload 24496 24492 Watching for file changes with StatReloader
+INFO 2025-12-03 01:36:17,667 autoreload 2444 18176 Watching for file changes with StatReloader
+WARNING 2025-12-03 01:36:30,776 log 2444 24108 Bad Request: /api/auth/register
+WARNING 2025-12-03 01:36:30,780 basehttp 2444 24108 "POST /api/auth/register HTTP/1.1" 400 146
+INFO 2025-12-03 01:39:14,669 basehttp 2444 644 "POST /api/auth/register HTTP/1.1" 201 130
+INFO 2025-12-03 15:09:48,579 autoreload 12740 13620 Watching for file changes with StatReloader
+INFO 2025-12-03 15:09:52,931 basehttp 12740 13056 code 400, message Bad request version ('\x1aÜÂ+©\x1a=\x98øY\x8d/\x81>ò*È\x94ù%\x8bÏð¾MÙ=ÎO¹\x95¯\x8e')
+ERROR 2025-12-03 15:09:52,932 basehttp 12740 13056 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-03 15:09:52,936 basehttp 12740 1124 code 400, message Bad request version ('\x01')
+ERROR 2025-12-03 15:09:52,938 basehttp 12740 1124 You're accessing the development server over HTTPS, but it only supports HTTP.
+WARNING 2025-12-03 15:09:59,336 log 12740 24100 Bad Request: /api/auth/register
+WARNING 2025-12-03 15:09:59,339 basehttp 12740 24100 "POST /api/auth/register HTTP/1.1" 400 163
+ERROR 2025-12-03 15:38:19,953 log 12740 22072 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 15:38:19,970 basehttp 12740 22072 "POST /api/auth/login HTTP/1.1" 500 109133
+INFO 2025-12-03 15:47:45,737 autoreload 12740 13620 C:\Users\ranim\Desktop\banking-app\backend\banking_project\settings.py changed, reloading.
+INFO 2025-12-03 15:48:45,857 autoreload 21676 4056 Watching for file changes with StatReloader
+INFO 2025-12-03 15:49:27,050 autoreload 21676 4056 C:\Users\ranim\Desktop\banking-app\backend\banking_project\settings.py changed, reloading.
+INFO 2025-12-03 15:49:28,620 autoreload 6900 10868 Watching for file changes with StatReloader
+INFO 2025-12-03 15:49:30,529 autoreload 6900 10868 C:\Users\ranim\Desktop\banking-app\backend\banking_project\settings.py changed, reloading.
+INFO 2025-12-03 15:49:31,844 autoreload 22600 20940 Watching for file changes with StatReloader
+INFO 2025-12-03 15:49:39,047 autoreload 22600 20940 C:\Users\ranim\Desktop\banking-app\backend\banking_project\settings.py changed, reloading.
+INFO 2025-12-03 15:49:40,439 autoreload 21740 9532 Watching for file changes with StatReloader
+ERROR 2025-12-03 15:49:44,416 log 21740 22764 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 15:49:44,426 basehttp 21740 22764 "POST /api/auth/login HTTP/1.1" 500 109133
+ERROR 2025-12-03 15:53:03,650 log 21740 24008 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 15:53:03,656 basehttp 21740 24008 "POST /api/auth/login HTTP/1.1" 500 109133
+ERROR 2025-12-03 15:53:18,255 log 21740 24008 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 15:53:18,263 basehttp 21740 24008 "POST /api/auth/login HTTP/1.1" 500 109133
+ERROR 2025-12-03 15:55:45,062 log 21740 18344 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 15:55:45,072 basehttp 21740 18344 "POST /api/auth/login HTTP/1.1" 500 109133
+ERROR 2025-12-03 15:56:15,551 log 21740 18344 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 15:56:15,557 basehttp 21740 18344 "POST /api/auth/login HTTP/1.1" 500 109133
+ERROR 2025-12-03 16:00:49,520 log 21740 16776 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 16:00:49,527 basehttp 21740 16776 "POST /api/auth/login HTTP/1.1" 500 109133
+ERROR 2025-12-03 16:50:33,494 log 21740 24156 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 96, in login_user
+    user = serializer.validated_data['user']
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+ERROR 2025-12-03 16:50:33,503 basehttp 21740 24156 "POST /api/auth/login HTTP/1.1" 500 109133
+INFO 2025-12-03 16:51:30,831 autoreload 21740 9532 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 16:51:32,983 autoreload 11492 5900 Watching for file changes with StatReloader
+INFO 2025-12-03 16:51:37,391 autoreload 11492 5900 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 16:51:38,830 autoreload 4664 23072 Watching for file changes with StatReloader
+INFO 2025-12-03 16:51:45,073 autoreload 4664 23072 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 16:51:46,529 autoreload 4908 4816 Watching for file changes with StatReloader
+INFO 2025-12-03 16:52:10,770 autoreload 4908 4816 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 16:52:12,265 autoreload 20132 1888 Watching for file changes with StatReloader
+INFO 2025-12-03 16:52:43,572 autoreload 20132 1888 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 16:52:44,812 autoreload 860 12616 Watching for file changes with StatReloader
+INFO 2025-12-03 16:55:13,566 autoreload 860 12616 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 16:55:14,777 autoreload 6092 16220 Watching for file changes with StatReloader
+INFO 2025-12-03 16:55:38,038 autoreload 6092 16220 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 16:55:39,412 autoreload 13688 22004 Watching for file changes with StatReloader
+INFO 2025-12-03 16:58:07,756 autoreload 13688 22004 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 16:58:08,990 autoreload 11664 17960 Watching for file changes with StatReloader
+INFO 2025-12-03 16:58:11,167 basehttp 11664 4284 "POST /api/auth/login HTTP/1.1" 200 772
+WARNING 2025-12-03 16:59:14,848 log 11664 23684 Unauthorized: /api/auth/refresh
+WARNING 2025-12-03 16:59:14,849 basehttp 11664 23684 "POST /api/auth/refresh HTTP/1.1" 401 70
+INFO 2025-12-03 17:00:31,356 basehttp 11664 21908 "POST /api/auth/refresh HTTP/1.1" 200 582
+WARNING 2025-12-03 17:03:59,258 log 11664 24256 Unauthorized: /api/profile
+WARNING 2025-12-03 17:03:59,260 basehttp 11664 24256 "POST /api/profile HTTP/1.1" 401 58
+WARNING 2025-12-03 17:04:16,486 log 11664 24256 Method Not Allowed: /api/profile
+WARNING 2025-12-03 17:04:16,487 basehttp 11664 24256 "POST /api/profile HTTP/1.1" 405 50
+INFO 2025-12-03 17:04:46,118 basehttp 11664 24256 "GET /api/profile HTTP/1.1" 200 187
+WARNING 2025-12-03 17:05:38,303 log 11664 24256 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:05:38,304 basehttp 11664 24256 "POST /api/profile/update HTTP/1.1" 401 58
+WARNING 2025-12-03 17:07:22,545 log 11664 20308 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:07:22,546 basehttp 11664 20308 "PUT /api/profile/update HTTP/1.1" 401 58
+WARNING 2025-12-03 17:08:59,231 log 11664 7768 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:08:59,233 basehttp 11664 7768 "PATCH /api/profile/update HTTP/1.1" 401 58
+WARNING 2025-12-03 17:09:11,447 log 11664 7768 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:09:11,447 basehttp 11664 7768 "PATCH /api/profile/update HTTP/1.1" 401 58
+WARNING 2025-12-03 17:10:08,184 log 11664 7768 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:10:08,185 basehttp 11664 7768 "PATCH /api/profile/update HTTP/1.1" 401 58
+INFO 2025-12-03 17:10:31,373 basehttp 11664 7768 "POST /api/auth/login HTTP/1.1" 200 772
+WARNING 2025-12-03 17:10:51,147 log 11664 7768 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:10:51,148 basehttp 11664 7768 "PATCH /api/profile/update HTTP/1.1" 401 58
+WARNING 2025-12-03 17:11:05,300 log 11664 7768 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:11:05,302 basehttp 11664 7768 "PATCH /api/profile/update HTTP/1.1" 401 188
+INFO 2025-12-03 17:11:41,430 basehttp 11664 7768 "POST /api/auth/login HTTP/1.1" 200 772
+WARNING 2025-12-03 17:11:46,257 log 11664 7768 Unauthorized: /api/auth/refresh
+WARNING 2025-12-03 17:11:46,258 basehttp 11664 7768 "POST /api/auth/refresh HTTP/1.1" 401 60
+INFO 2025-12-03 17:12:07,400 basehttp 11664 7768 "POST /api/auth/refresh HTTP/1.1" 200 582
+WARNING 2025-12-03 17:12:24,715 log 11664 7768 Method Not Allowed: /api/profile/update
+WARNING 2025-12-03 17:12:24,716 basehttp 11664 7768 "PATCH /api/profile/update HTTP/1.1" 405 51
+WARNING 2025-12-03 17:12:51,741 log 11664 7768 Bad Request: /api/profile/update
+WARNING 2025-12-03 17:12:51,742 basehttp 11664 7768 "PUT /api/profile/update HTTP/1.1" 400 109
+ERROR 2025-12-03 17:13:12,715 utils 11664 7768 Failed to send email to ranim@test.com: emails/profile_updated.html
+INFO 2025-12-03 17:13:12,723 basehttp 11664 7768 "PUT /api/profile/update HTTP/1.1" 200 227
+WARNING 2025-12-03 17:34:38,521 log 11664 5512 Unauthorized: /api/profile/update
+WARNING 2025-12-03 17:34:38,522 basehttp 11664 5512 "PUT /api/profile/update HTTP/1.1" 401 188
+INFO 2025-12-03 17:34:51,846 basehttp 11664 5512 "POST /api/auth/login HTTP/1.1" 200 771
+INFO 2025-12-03 17:35:07,088 basehttp 11664 5512 "POST /api/auth/refresh HTTP/1.1" 200 582
+ERROR 2025-12-03 17:35:28,565 utils 11664 5512 Failed to send email to ranim@test.com: emails/profile_updated.html
+INFO 2025-12-03 17:35:28,574 basehttp 11664 5512 "PUT /api/profile/update HTTP/1.1" 200 227
+INFO 2025-12-03 17:38:13,608 views 11664 17248 User ranim@test.com retrieved 0 accounts
+INFO 2025-12-03 17:38:13,620 basehttp 11664 17248 "GET /api/accounts HTTP/1.1" 200 30
+INFO 2025-12-03 17:49:51,205 views 11664 19228 User ranim@test.com retrieved 0 accounts
+INFO 2025-12-03 17:49:51,211 basehttp 11664 19228 "GET /api/accounts HTTP/1.1" 200 30
+INFO 2025-12-03 18:16:27,110 autoreload 11664 17960 C:\Users\ranim\Desktop\banking-app\backend\accounts\models.py changed, reloading.
+INFO 2025-12-03 18:16:29,943 autoreload 11912 9992 Watching for file changes with StatReloader
+INFO 2025-12-03 18:16:36,678 autoreload 11912 9992 C:\Users\ranim\Desktop\banking-app\backend\accounts\models.py changed, reloading.
+INFO 2025-12-03 18:16:38,247 autoreload 16760 9224 Watching for file changes with StatReloader
+INFO 2025-12-03 18:16:40,046 autoreload 16760 9224 C:\Users\ranim\Desktop\banking-app\backend\accounts\models.py changed, reloading.
+INFO 2025-12-03 18:16:41,164 autoreload 12128 23104 Watching for file changes with StatReloader
+INFO 2025-12-03 18:16:45,361 autoreload 12128 23104 C:\Users\ranim\Desktop\banking-app\backend\accounts\models.py changed, reloading.
+INFO 2025-12-03 18:16:46,508 autoreload 14724 13068 Watching for file changes with StatReloader
+INFO 2025-12-03 18:16:53,125 autoreload 14724 13068 C:\Users\ranim\Desktop\banking-app\backend\accounts\models.py changed, reloading.
+INFO 2025-12-03 18:16:54,368 autoreload 12124 1128 Watching for file changes with StatReloader
+INFO 2025-12-03 18:17:17,399 autoreload 12124 1128 C:\Users\ranim\Desktop\banking-app\backend\accounts\models.py changed, reloading.
+INFO 2025-12-03 18:17:18,589 autoreload 9128 23324 Watching for file changes with StatReloader
+INFO 2025-12-03 18:20:21,229 autoreload 9128 23324 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 18:20:22,493 autoreload 23724 23892 Watching for file changes with StatReloader
+INFO 2025-12-03 18:20:29,682 autoreload 23724 23892 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 18:20:30,917 autoreload 5208 20296 Watching for file changes with StatReloader
+INFO 2025-12-03 18:21:18,621 autoreload 5208 20296 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 18:21:19,946 autoreload 3244 9544 Watching for file changes with StatReloader
+INFO 2025-12-03 18:21:25,007 autoreload 3244 9544 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 18:21:26,305 autoreload 22360 23060 Watching for file changes with StatReloader
+INFO 2025-12-03 18:23:25,471 autoreload 22360 23060 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 18:23:26,834 autoreload 16600 620 Watching for file changes with StatReloader
+INFO 2025-12-03 18:25:52,346 autoreload 16600 620 C:\Users\ranim\Desktop\banking-app\backend\banking_project\urls.py changed, reloading.
+INFO 2025-12-03 18:25:53,667 autoreload 1928 23744 Watching for file changes with StatReloader
+INFO 2025-12-03 18:25:59,631 autoreload 1928 23744 C:\Users\ranim\Desktop\banking-app\backend\banking_project\urls.py changed, reloading.
+INFO 2025-12-03 18:26:00,922 autoreload 17872 14400 Watching for file changes with StatReloader
+INFO 2025-12-03 18:26:16,101 autoreload 17872 14400 C:\Users\ranim\Desktop\banking-app\backend\banking_project\urls.py changed, reloading.
+INFO 2025-12-03 18:26:17,297 autoreload 15864 13928 Watching for file changes with StatReloader
+INFO 2025-12-03 18:26:49,844 autoreload 15864 13928 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 18:26:51,170 autoreload 4800 4196 Watching for file changes with StatReloader
+INFO 2025-12-03 18:26:53,123 autoreload 4800 4196 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 18:26:54,376 autoreload 22912 14804 Watching for file changes with StatReloader
+WARNING 2025-12-03 18:28:06,035 log 22912 20664 Unauthorized: /api/auth/register
+WARNING 2025-12-03 18:28:06,036 basehttp 22912 20664 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 401 58
+INFO 2025-12-03 18:52:18,579 autoreload 22912 14804 C:\Users\ranim\Desktop\banking-app\backend\accounts\utils.py changed, reloading.
+INFO 2025-12-03 18:52:20,095 autoreload 884 15872 Watching for file changes with StatReloader
+INFO 2025-12-03 18:52:24,084 autoreload 884 15872 C:\Users\ranim\Desktop\banking-app\backend\accounts\utils.py changed, reloading.
+INFO 2025-12-03 18:52:25,364 autoreload 24384 17072 Watching for file changes with StatReloader
+INFO 2025-12-03 18:52:27,315 autoreload 24384 17072 C:\Users\ranim\Desktop\banking-app\backend\accounts\utils.py changed, reloading.
+INFO 2025-12-03 18:52:28,748 autoreload 17264 8500 Watching for file changes with StatReloader
+INFO 2025-12-03 18:56:15,885 autoreload 17264 8500 C:\Users\ranim\Desktop\banking-app\backend\accounts\utils.py changed, reloading.
+INFO 2025-12-03 18:56:17,337 autoreload 22736 18420 Watching for file changes with StatReloader
+ERROR 2025-12-03 18:56:32,999 log 22736 10396 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 358, in register_user
+    serializer = UserRegisterSerializer(data=request.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'UserRegisterSerializer' is not defined. Did you mean: 'UserRegistrationSerializer'?
+ERROR 2025-12-03 18:56:33,008 basehttp 22736 10396 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 109864
+ERROR 2025-12-03 18:59:13,364 log 22736 10456 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 358, in register_user
+    serializer = UserRegisterSerializer(data=request.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'UserRegisterSerializer' is not defined. Did you mean: 'UserRegistrationSerializer'?
+ERROR 2025-12-03 18:59:13,372 basehttp 22736 10456 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 109863
+INFO 2025-12-03 19:00:23,956 autoreload 22736 18420 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:00:25,415 autoreload 1196 4944 Watching for file changes with StatReloader
+INFO 2025-12-03 19:00:31,134 autoreload 1196 4944 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:00:32,347 autoreload 15728 17668 Watching for file changes with StatReloader
+ERROR 2025-12-03 19:00:38,620 log 15728 9460 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 358, in register_user
+    serializer = UserRegisterSerializer(data=request.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'UserRegisterSerializer' is not defined. Did you mean: 'UserRegistrationSerializer'?
+ERROR 2025-12-03 19:00:38,630 basehttp 15728 9460 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 109863
+INFO 2025-12-03 19:01:10,915 autoreload 15728 17668 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:01:12,204 autoreload 10520 9484 Watching for file changes with StatReloader
+INFO 2025-12-03 19:01:39,098 autoreload 10520 9484 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:01:40,524 autoreload 6760 22012 Watching for file changes with StatReloader
+ERROR 2025-12-03 19:01:42,982 log 6760 16192 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 358, in register_user
+    serializer = UserRegisterSerializer(data=request.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'UserRegisterSerializer' is not defined. Did you mean: 'UserRegistrationSerializer'?
+ERROR 2025-12-03 19:01:42,988 basehttp 6760 16192 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 109863
+INFO 2025-12-03 19:03:28,819 autoreload 6760 22012 C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py changed, reloading.
+INFO 2025-12-03 19:03:30,086 autoreload 15296 23460 Watching for file changes with StatReloader
+INFO 2025-12-03 19:05:21,092 autoreload 15296 23460 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:05:22,363 autoreload 19764 22736 Watching for file changes with StatReloader
+INFO 2025-12-03 19:05:24,602 autoreload 19764 22736 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:05:25,863 autoreload 12744 16820 Watching for file changes with StatReloader
+ERROR 2025-12-03 19:05:36,116 log 12744 4196 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 358, in register_user
+    serializer = UserRegisterSerializer(data=request.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'UserRegisterSerializer' is not defined. Did you mean: 'UserRegistrationSerializer'?
+ERROR 2025-12-03 19:05:36,123 basehttp 12744 4196 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 109863
+ERROR 2025-12-03 19:05:37,740 log 12744 4196 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 358, in register_user
+    serializer = UserRegisterSerializer(data=request.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'UserRegisterSerializer' is not defined. Did you mean: 'UserRegistrationSerializer'?
+ERROR 2025-12-03 19:05:37,746 basehttp 12744 4196 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 109863
+INFO 2025-12-03 19:05:41,109 autoreload 12744 16820 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:05:42,492 autoreload 11768 856 Watching for file changes with StatReloader
+INFO 2025-12-03 19:06:44,237 autoreload 11768 856 C:\Users\ranim\Desktop\banking-app\backend\accounts\views.py changed, reloading.
+INFO 2025-12-03 19:06:45,524 autoreload 22548 21088 Watching for file changes with StatReloader
+ERROR 2025-12-03 19:06:52,270 log 22548 19228 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 358, in register_user
+    serializer = UserRegisterSerializer(data=request.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'UserRegisterSerializer' is not defined. Did you mean: 'UserRegistrationSerializer'?
+ERROR 2025-12-03 19:06:52,279 basehttp 22548 19228 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 109863
+INFO 2025-12-03 19:08:11,078 autoreload 22548 21088 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:08:12,560 autoreload 9532 16732 Watching for file changes with StatReloader
+INFO 2025-12-03 19:08:26,171 autoreload 9532 16732 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:08:27,730 autoreload 3712 9220 Watching for file changes with StatReloader
+INFO 2025-12-03 19:08:45,307 autoreload 3712 9220 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:08:46,604 autoreload 1124 3288 Watching for file changes with StatReloader
+INFO 2025-12-03 19:09:04,573 autoreload 1124 3288 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:09:06,071 autoreload 11856 14696 Watching for file changes with StatReloader
+INFO 2025-12-03 19:11:39,185 autoreload 11856 14696 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:11:40,525 autoreload 8912 16436 Watching for file changes with StatReloader
+WARNING 2025-12-03 19:11:44,577 log 8912 23332 Bad Request: /api/auth/register
+WARNING 2025-12-03 19:11:44,579 basehttp 8912 23332 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 400 134
+ERROR 2025-12-03 19:12:54,457 log 8912 20500 Internal Server Error: /api/auth/register
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=() already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 361, in register_user
+    user = serializer.save()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\accounts\serializers.py", line 18, in create
+    user.save()
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=() already exists.
+
+ERROR 2025-12-03 19:12:54,470 basehttp 8912 20500 "POST /api/auth/register?Content-Type=application/json HTTP/1.1" 500 210961
+INFO 2025-12-03 19:15:58,590 autoreload 8912 16436 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:15:59,817 autoreload 11172 19172 Watching for file changes with StatReloader
+INFO 2025-12-03 19:16:07,617 autoreload 11172 19172 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:16:09,147 autoreload 9464 24568 Watching for file changes with StatReloader
+INFO 2025-12-03 19:16:18,641 autoreload 9464 24568 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:16:19,886 autoreload 16464 23328 Watching for file changes with StatReloader
+ERROR 2025-12-03 19:17:45,330 log 16464 20128 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 56, in login_user
+    if not user.bankaccount_set.exists():
+           ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'User' object has no attribute 'bankaccount_set'. Did you mean: 'bank_accounts'?
+ERROR 2025-12-03 19:17:45,337 basehttp 16464 20128 "POST /api/auth/login HTTP/1.1" 500 109713
+INFO 2025-12-03 19:23:16,637 autoreload 16464 23328 C:\Users\ranim\Desktop\banking-app\backend\accounts\models.py changed, reloading.
+INFO 2025-12-03 19:23:17,914 autoreload 7748 17992 Watching for file changes with StatReloader
+ERROR 2025-12-03 19:23:25,643 log 7748 3828 Internal Server Error: /api/auth/login
+Traceback (most recent call last):
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py", line 56, in login_user
+    if not user.bankaccount_set.exists():
+           ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'User' object has no attribute 'bankaccount_set'. Did you mean: 'bank_accounts'?
+ERROR 2025-12-03 19:23:25,653 basehttp 7748 3828 "POST /api/auth/login HTTP/1.1" 500 109713
+INFO 2025-12-03 19:24:26,757 autoreload 7748 17992 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:24:28,087 autoreload 17440 2796 Watching for file changes with StatReloader
+INFO 2025-12-03 19:24:52,379 autoreload 17440 2796 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:24:53,753 autoreload 8912 14724 Watching for file changes with StatReloader
+INFO 2025-12-03 19:24:57,730 autoreload 8912 14724 C:\Users\ranim\Desktop\banking-app\backend\authentication\views.py changed, reloading.
+INFO 2025-12-03 19:24:59,005 autoreload 18564 11880 Watching for file changes with StatReloader
+INFO 2025-12-03 19:25:12,821 utils 18564 15852 Bank account created for user ranim@test.com: TN5942776927876278900095
+INFO 2025-12-03 19:25:13,117 basehttp 18564 15852 "POST /api/auth/login HTTP/1.1" 200 862
+WARNING 2025-12-03 19:33:46,354 log 18564 22508 Unauthorized: /api/accounts
+WARNING 2025-12-03 19:33:46,356 basehttp 18564 22508 "GET /api/accounts HTTP/1.1" 401 188
+INFO 2025-12-03 19:34:21,124 basehttp 18564 22508 "POST /api/auth/login HTTP/1.1" 200 864
+WARNING 2025-12-03 19:34:49,911 log 18564 22508 Unauthorized: /api/accounts
+WARNING 2025-12-03 19:34:49,913 basehttp 18564 22508 "GET /api/accounts HTTP/1.1" 401 188
+WARNING 2025-12-03 19:34:53,414 log 18564 22508 Unauthorized: /api/accounts
+WARNING 2025-12-03 19:34:53,415 basehttp 18564 22508 "GET /api/accounts HTTP/1.1" 401 188
+INFO 2025-12-03 19:35:13,915 basehttp 18564 22508 "POST /api/auth/login HTTP/1.1" 200 864
+INFO 2025-12-03 19:35:33,427 views 18564 22508 User ranim@test.com retrieved 1 accounts
+INFO 2025-12-03 19:35:33,447 basehttp 18564 22508 "GET /api/accounts HTTP/1.1" 200 392
+WARNING 2025-12-03 19:36:05,546 log 18564 22508 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:36:05,547 basehttp 18564 22508 "GET /api/beneficiaries HTTP/1.1" 401 58
+WARNING 2025-12-03 19:36:51,349 log 18564 22508 Unauthorized: /api/beneficiaries/add
+WARNING 2025-12-03 19:36:51,350 basehttp 18564 22508 "POST /api/beneficiaries/add HTTP/1.1" 401 58
+WARNING 2025-12-03 19:38:00,105 log 18564 19044 Unauthorized: /api/beneficiaries/add
+WARNING 2025-12-03 19:38:00,106 basehttp 18564 19044 "POST /api/beneficiaries/add HTTP/1.1" 401 58
+WARNING 2025-12-03 19:38:15,149 log 18564 19044 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:38:15,150 basehttp 18564 19044 "POST /api/beneficiaries HTTP/1.1" 401 58
+WARNING 2025-12-03 19:38:17,021 log 18564 19044 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:38:17,022 basehttp 18564 19044 "POST /api/beneficiaries HTTP/1.1" 401 58
+WARNING 2025-12-03 19:38:48,091 log 18564 19044 Method Not Allowed: /api/beneficiaries
+WARNING 2025-12-03 19:38:48,092 basehttp 18564 19044 "POST /api/beneficiaries HTTP/1.1" 405 50
+WARNING 2025-12-03 19:39:01,631 log 18564 19044 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:39:01,632 basehttp 18564 19044 "POST /api/beneficiaries HTTP/1.1" 401 58
+WARNING 2025-12-03 19:41:47,796 log 18564 16088 Unauthorized: /api/auth/refresh
+WARNING 2025-12-03 19:41:47,797 basehttp 18564 16088 "POST /api/auth/refresh HTTP/1.1" 401 60
+INFO 2025-12-03 19:41:55,800 basehttp 18564 16088 "POST /api/auth/login HTTP/1.1" 200 864
+WARNING 2025-12-03 19:42:37,283 log 18564 16088 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:42:37,284 basehttp 18564 16088 "POST /api/beneficiaries HTTP/1.1" 401 58
+INFO 2025-12-03 19:42:58,693 basehttp 18564 16088 "POST /api/auth/refresh HTTP/1.1" 200 582
+WARNING 2025-12-03 19:43:14,557 log 18564 16088 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:43:14,558 basehttp 18564 16088 "POST /api/beneficiaries HTTP/1.1" 401 58
+WARNING 2025-12-03 19:43:50,235 log 18564 16088 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:43:50,236 basehttp 18564 16088 "POST /api/beneficiaries HTTP/1.1" 401 58
+WARNING 2025-12-03 19:45:15,765 log 18564 7184 Method Not Allowed: /api/beneficiaries
+WARNING 2025-12-03 19:45:15,766 basehttp 18564 7184 "POST /api/beneficiaries HTTP/1.1" 405 50
+INFO 2025-12-03 19:46:16,850 views 18564 20316 Beneficiary added by ranim@test.com: Beneficiary One
+INFO 2025-12-03 19:46:16,856 basehttp 18564 20316 "POST /api/beneficiaries/add HTTP/1.1" 201 410
+WARNING 2025-12-03 19:47:44,317 log 18564 17736 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:47:44,318 basehttp 18564 17736 "GET /api/beneficiaries?Authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzY0Nzg4MjE1LCJpYXQiOjE3NjQ3ODczMTUsImp0aSI6ImY4MDYyNjU2NzE5NjQyZjM5ZDM0NWMwYzQ0NTU4MmI4IiwidXNlcl9pZCI6IjIwMWFjYzI2LWIxZTgtNGJjZi05YTg3LTQ0OWE3N2I4ZjU5MCJ9.MRiM4_VJqxpBvjd48OGNx88u4HKdbMq5V-OqHCuUACo HTTP/1.1" 401 58
+WARNING 2025-12-03 19:47:46,190 log 18564 17736 Unauthorized: /api/beneficiaries
+WARNING 2025-12-03 19:47:46,191 basehttp 18564 17736 "GET /api/beneficiaries?Authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzY0Nzg4MjE1LCJpYXQiOjE3NjQ3ODczMTUsImp0aSI6ImY4MDYyNjU2NzE5NjQyZjM5ZDM0NWMwYzQ0NTU4MmI4IiwidXNlcl9pZCI6IjIwMWFjYzI2LWIxZTgtNGJjZi05YTg3LTQ0OWE3N2I4ZjU5MCJ9.MRiM4_VJqxpBvjd48OGNx88u4HKdbMq5V-OqHCuUACo HTTP/1.1" 401 58
+INFO 2025-12-03 19:48:47,546 views 18564 9228 User ranim@test.com retrieved 1 beneficiaries
+INFO 2025-12-03 19:48:47,556 basehttp 18564 9228 "GET /api/beneficiaries HTTP/1.1" 200 371
+WARNING 2025-12-03 19:51:25,720 log 18564 4044 Unauthorized: /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca
+WARNING 2025-12-03 19:51:25,721 basehttp 18564 4044 "DELETE /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca HTTP/1.1" 401 58
+WARNING 2025-12-03 19:53:05,986 log 18564 20256 Method Not Allowed: /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca
+WARNING 2025-12-03 19:53:05,987 basehttp 18564 20256 "PUT /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca HTTP/1.1" 405 49
+WARNING 2025-12-03 19:54:39,164 log 18564 11248 Bad Request: /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca/update
+WARNING 2025-12-03 19:54:39,165 basehttp 18564 11248 "PUT /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca/update HTTP/1.1" 400 84
+INFO 2025-12-03 19:57:38,716 views 18564 14176 Beneficiary updated by ranim@test.com: Updated Beneficiary
+INFO 2025-12-03 19:57:38,723 basehttp 18564 14176 "PUT /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca/update HTTP/1.1" 200 425
+WARNING 2025-12-03 19:58:45,343 log 18564 17124 Unauthorized: /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca
+WARNING 2025-12-03 19:58:45,344 basehttp 18564 17124 "DELETE /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca HTTP/1.1" 401 188
+INFO 2025-12-03 19:58:55,364 basehttp 18564 17124 "POST /api/auth/login HTTP/1.1" 200 864
+INFO 2025-12-03 19:59:12,553 views 18564 17124 Beneficiary deleted by ranim@test.com: Updated Beneficiary
+INFO 2025-12-03 19:59:12,558 basehttp 18564 17124 "DELETE /api/beneficiaries/e5e7ac78-1012-4984-926d-ab6a1a9c32ca HTTP/1.1" 200 61
+WARNING 2025-12-03 19:59:19,735 log 18564 17124 Unauthorized: /api/beneficiaries/add
+WARNING 2025-12-03 19:59:19,747 basehttp 18564 17124 "POST /api/beneficiaries/add HTTP/1.1" 401 188
+INFO 2025-12-03 19:59:32,254 views 18564 17124 User ranim@test.com retrieved 0 beneficiaries
+INFO 2025-12-03 19:59:32,265 basehttp 18564 17124 "GET /api/beneficiaries HTTP/1.1" 200 35
+INFO 2025-12-03 20:00:42,134 views 18564 22296 User ranim@test.com retrieved 0 transactions
+INFO 2025-12-03 20:00:42,137 basehttp 18564 22296 "GET /api/transactions HTTP/1.1" 200 66
+INFO 2025-12-03 20:03:12,337 views 18564 17960 Beneficiary added by ranim@test.com: Beneficiary One
+INFO 2025-12-03 20:03:12,345 basehttp 18564 17960 "POST /api/beneficiaries/add HTTP/1.1" 201 410
+WARNING 2025-12-03 20:04:52,338 log 18564 8616 Unauthorized: /api/transactions/initiate
+WARNING 2025-12-03 20:04:52,339 basehttp 18564 8616 "POST /api/transactions/initiate?Authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzY0Nzg5MjM1LCJpYXQiOjE3NjQ3ODgzMzUsImp0aSI6IjBmZTMxMDA1ODhjNzQ0Zjg4Yjk0NzExZmUyYmUzNDVlIiwidXNlcl9pZCI6IjIwMWFjYzI2LWIxZTgtNGJjZi05YTg3LTQ0OWE3N2I4ZjU5MCJ9.XUYI0Aipjhg6i-fyzqicSd5834jruHajg-FJeEaZmlI&Content-Type=application/json HTTP/1.1" 401 58
+WARNING 2025-12-03 20:06:03,541 log 18564 14484 Unauthorized: /api/accounts
+WARNING 2025-12-03 20:06:03,542 basehttp 18564 14484 "GET /api/accounts HTTP/1.1" 401 188
+INFO 2025-12-03 20:06:13,433 views 18564 14484 User ranim@test.com retrieved 1 accounts
+INFO 2025-12-03 20:06:13,440 basehttp 18564 14484 "GET /api/accounts HTTP/1.1" 200 392
+WARNING 2025-12-03 20:06:31,598 log 18564 14484 Unauthorized: /api/transactions/initiate
+WARNING 2025-12-03 20:06:31,599 basehttp 18564 14484 "POST /api/transactions/initiate?Authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzY0Nzg5MjM1LCJpYXQiOjE3NjQ3ODgzMzUsImp0aSI6IjBmZTMxMDA1ODhjNzQ0Zjg4Yjk0NzExZmUyYmUzNDVlIiwidXNlcl9pZCI6IjIwMWFjYzI2LWIxZTgtNGJjZi05YTg3LTQ0OWE3N2I4ZjU5MCJ9.XUYI0Aipjhg6i-fyzqicSd5834jruHajg-FJeEaZmlI&Content-Type=application/json HTTP/1.1" 401 58
+WARNING 2025-12-03 20:07:49,808 log 18564 13764 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:07:49,809 basehttp 18564 13764 "POST /api/transactions/initiate HTTP/1.1" 400 51
+INFO 2025-12-03 20:10:49,615 views 18564 15124 User ranim@test.com retrieved 1 beneficiaries
+INFO 2025-12-03 20:10:49,627 basehttp 18564 15124 "GET /api/beneficiaries HTTP/1.1" 200 371
+WARNING 2025-12-03 20:11:03,713 log 18564 15124 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:11:03,714 basehttp 18564 15124 "POST /api/transactions/initiate HTTP/1.1" 400 51
+WARNING 2025-12-03 20:16:04,790 log 18564 11296 Unauthorized: /api/transactions/initiate
+WARNING 2025-12-03 20:16:04,792 basehttp 18564 11296 "POST /api/transactions/initiate HTTP/1.1" 401 188
+INFO 2025-12-03 20:16:17,961 basehttp 18564 11296 "POST /api/auth/login HTTP/1.1" 200 864
+WARNING 2025-12-03 20:16:37,353 log 18564 11296 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:16:37,354 basehttp 18564 11296 "POST /api/transactions/initiate HTTP/1.1" 400 51
+INFO 2025-12-03 20:17:16,891 views 18564 11296 User ranim@test.com retrieved 1 beneficiaries
+INFO 2025-12-03 20:17:16,904 basehttp 18564 11296 "GET /api/beneficiaries HTTP/1.1" 200 371
+INFO 2025-12-03 20:17:28,545 views 18564 11296 User ranim@test.com retrieved 1 accounts
+INFO 2025-12-03 20:17:28,551 basehttp 18564 11296 "GET /api/accounts HTTP/1.1" 200 392
+WARNING 2025-12-03 20:18:32,778 log 18564 14480 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:18:32,779 basehttp 18564 14480 "POST /api/transactions/initiate HTTP/1.1" 400 51
+WARNING 2025-12-03 20:18:49,402 log 18564 14480 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:18:49,403 basehttp 18564 14480 "POST /api/transactions/initiate HTTP/1.1" 400 51
+WARNING 2025-12-03 20:19:51,018 log 18564 9648 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:19:51,020 basehttp 18564 9648 "POST /api/transactions/initiate HTTP/1.1" 400 51
+WARNING 2025-12-03 20:20:44,787 log 18564 9648 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:20:44,788 basehttp 18564 9648 "POST /api/transactions/initiate HTTP/1.1" 400 51
+WARNING 2025-12-03 20:20:53,220 log 18564 9648 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:20:53,221 basehttp 18564 9648 "POST /api/transactions/initiate HTTP/1.1" 400 51
+WARNING 2025-12-03 20:22:06,761 log 18564 8488 Bad Request: /api/transactions/initiate
+WARNING 2025-12-03 20:22:06,761 basehttp 18564 8488 "POST /api/transactions/initiate HTTP/1.1" 400 70
+ERROR 2025-12-03 20:22:13,413 views 18564 8488 Error initiating transaction: No Beneficiary matches the given query.
+ERROR 2025-12-03 20:22:13,415 log 18564 8488 Internal Server Error: /api/transactions/initiate
+ERROR 2025-12-03 20:22:13,416 basehttp 18564 8488 "POST /api/transactions/initiate HTTP/1.1" 500 57
+WARNING 2025-12-04 02:03:01,342 log 18564 24780 Not Found: /api/
+WARNING 2025-12-04 02:03:01,345 basehttp 18564 24780 "GET /api/ HTTP/1.1" 404 5258
+WARNING 2025-12-04 02:03:01,542 log 18564 24780 Not Found: /favicon.ico
+WARNING 2025-12-04 02:03:01,543 basehttp 18564 24780 "GET /favicon.ico HTTP/1.1" 404 5279
+INFO 2025-12-04 02:26:29,657 basehttp 18564 25260 code 400, message Bad request version ('¤\x8c¤Öú©¤8Ê\x7fE\x1af¬')
+ERROR 2025-12-04 02:26:29,659 basehttp 18564 25260 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-04 02:26:29,662 basehttp 18564 11420 code 400, message Bad request version ('\x13iqÍ<\x1b<á\x97½â\x80\x04Y}Þ£©Î$/\x0e\x80¿éÆ4áB\x833,\x0f7\x84»?\x99p.\x10Rç\x04«')
+ERROR 2025-12-04 02:26:29,663 basehttp 18564 11420 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-04 02:26:29,664 basehttp 18564 11240 code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+ERROR 2025-12-04 02:26:29,665 basehttp 18564 11240 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-04 02:26:29,667 basehttp 18564 4820 code 400, message Bad request version ('l3\x81\x059ÁÇ«\x86ôg¿)3õ\x81»ç¢\x18\x91RU')
+ERROR 2025-12-04 02:26:29,669 basehttp 18564 4820 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-04 02:26:31,816 basehttp 18564 17604 code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x90ôlS?\x9d¼ý')
+ERROR 2025-12-04 02:26:31,817 basehttp 18564 17604 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-04 02:26:31,819 basehttp 18564 16952 code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x9få')
+ERROR 2025-12-04 02:26:31,820 basehttp 18564 16952 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-04 02:26:31,822 basehttp 18564 23128 code 400, message Bad request version ('àb\x89È³\x01\x96¦ñ\x90')
+ERROR 2025-12-04 02:26:31,826 basehttp 18564 23128 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-12-04 02:26:31,827 basehttp 18564 24776 code 400, message Bad request version ('.{sq\x16ÁTH\x15!Áøx«\x02uÝ\x10D>R\x81\x03¬p~')
+ERROR 2025-12-04 02:26:31,829 basehttp 18564 24776 You're accessing the development server over HTTPS, but it only supports HTTP.

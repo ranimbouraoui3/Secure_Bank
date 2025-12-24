@@ -1,0 +1,17 @@
+<!-- templates/emails/otp_transfer.txt -->
+Code de Vérification - Virement Bancaire
+
+Bonjour {{ user.name }},
+
+Vous avez initié un virement de {{ amount }} TND vers {{ beneficiary }}.
+
+Pour compléter cette transaction, veuillez utiliser le code de vérification suivant :
+
+CODE: {{ otp_code }}
+
+⚠️ Important : Ce code est valable pendant {{ expires_in }} minutes. Ne le partagez avec personne.
+
+Si vous n'avez pas initié cette transaction, veuillez contacter immédiatement notre service client.
+
+© 2025 Banking Application
+

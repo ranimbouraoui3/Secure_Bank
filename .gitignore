@@ -1,0 +1,28 @@
+# Python / Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Django
+db.sqlite3
+staticfiles/
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs temp files
+~$*

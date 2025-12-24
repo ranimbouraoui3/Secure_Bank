@@ -1,0 +1,19 @@
+<!-- templates/emails/transfer_confirmation.txt -->
+Confirmation de Virement
+
+Bonjour {{ user.name }},
+
+✓ Votre virement a été effectué avec succès !
+
+Détails de la Transaction:
+- Référence: {{ reference_number }}
+- Montant: {{ amount }} TND
+- Bénéficiaire: {{ beneficiary.name }}
+- IBAN: {{ beneficiary.iban }}
+- Date: {{ date|date:"d/m/Y H:i" }}
+
+Conservez cette référence pour vos archives.
+
+© 2025 Banking Application
+
+

@@ -1,0 +1,68 @@
+<!-- templates/emails/transfer_confirmation.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .header { background: #10b981; color: white; padding: 20px; text-align: center; }
+        .content { background: #f9fafb; padding: 30px; margin: 20px 0; border-radius: 8px; }
+        .success { background: #d1fae5; border-left: 4px solid #10b981; padding: 15px; margin: 20px 0; }
+        .details { background: #fff; padding: 20px; border-radius: 4px; margin: 20px 0; }
+        .detail-row { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #e5e7eb; }
+        .footer { text-align: center; color: #6b7280; font-size: 12px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>✅ Virement Effectué</h1>
+        </div>
+        
+        <div class="content">
+            <h2>Bonjour {{ user.name }},</h2>
+            
+            <div class="success">
+                <strong>✓ Votre virement a été effectué avec succès !</strong>
+            </div>
+            
+            <div class="details">
+                <h3>Détails de la Transaction</h3>
+                
+                <div class="detail-row">
+                    <span><strong>Référence :</strong></span>
+                    <span>{{ reference_number }}</span>
+                </div>
+                
+                <div class="detail-row">
+                    <span><strong>Montant :</strong></span>
+                    <span>{{ amount }} TND</span>
+                </div>
+                
+                <div class="detail-row">
+                    <span><strong>Bénéficiaire :</strong></span>
+                    <span>{{ beneficiary.name }}</span>
+                </div>
+                
+                <div class="detail-row">
+                    <span><strong>IBAN :</strong></span>
+                    <span>{{ beneficiary.iban }}</span>
+                </div>
+                
+                <div class="detail-row">
+                    <span><strong>Date :</strong></span>
+                    <span>{{ date|date:"d/m/Y H:i" }}</span>
+                </div>
+            </div>
+            
+            <p>Conservez cette référence pour vos archives.</p>
+        </div>
+        
+        <div class="footer">
+            <p>© 2025 Banking Application. Tous droits réservés.</p>
+            <p>Pour toute question, contactez notre service client.</p>
+        </div>
+    </div>
+</body>
+</html>
