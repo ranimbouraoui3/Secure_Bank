@@ -18,7 +18,8 @@ A secure banking application built with Django REST, React, and PostgreSQL. Educ
 ---
 📄 Rapport
 
-👉 [Télécharger le rapport (PDF)](Report_Secure_Bank.pdf)
+👉 [Project report (PDF)](Report_Secure_Bank.pdf)
+
 ---
 
 ## 🛠 Tech Stack
