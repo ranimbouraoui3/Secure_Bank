@@ -16,6 +16,10 @@ A secure banking application built with Django REST, React, and PostgreSQL. Educ
 - SQL injection & brute-force protection
 
 ---
+📄 Rapport
+
+👉 [Télécharger le rapport (PDF)](Report_Secure_Bank.pdf)
+---
 
 ## 🛠 Tech Stack
 
@@ -130,6 +134,7 @@ securebank/
 ├── backend/          # Django REST API
 ├── frontend/         # React application
 ├── docs/             # Documentation
+├── Report_Secure_Bank.pdf  # Project report
 └── README.md
 ```
 
